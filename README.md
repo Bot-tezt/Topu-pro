@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+## Thankyou for choosing PROTECH MD bot 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
