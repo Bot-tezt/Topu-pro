@@ -36,7 +36,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Prosper-Protech/Topu-ai.git/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+237673805208">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -86,7 +86,7 @@ HOW TO REACH THE OWNER?
 
 
 ## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
- [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19)
 
 
 
@@ -102,7 +102,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *PROTECH-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
 TOPU Md is safe for your WhatsApp and heroku
@@ -110,22 +110,15 @@ TOPU Md is safe for your WhatsApp and heroku
 ## Reporting a Vulnerability
 
 
-## powered by TOPU MD
+## powered by PROTECH MD
 
 
 ## THANKS TO
-[france king]
-
-[Venocyber]
-
-[gifted tech]
-
-[king ibrahim]
-
+PROTECH
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *PROTECH-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by TOPU Tech
