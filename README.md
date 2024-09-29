@@ -9,7 +9,7 @@
 
 <a><img src='https://telegra.ph/file/4c2819e618d8946926b82.jpg'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing PROTECH Md, A Simple WhatsApp user BOT, Created by topu Tech.
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/4c2819e618d8946926b82.jpg" alt="01" border="0" /></a>                     
@@ -65,7 +65,7 @@ Please Use Node Version Higher to Get The Best Performance.
 
 ## Support 
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -85,7 +85,7 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
+## Makesure you follow my channel for latest updates for PROTECH MD bot and free CC
  [`WA CHANNEL`](https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19)
 
 
