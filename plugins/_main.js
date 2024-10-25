@@ -482,14 +482,14 @@ smd({
   pattern: "repo",
   alias: ["git", "sc", "script"],
   desc: "Sends info about repo",
-  category: "https://github.com/Toputech/Topu-ai",
+  category: "https://github.com/Bot-tezt/Topu-pro",
   filename: __filename
 }, async _0x45da98 => {
   try {
     let {
       data: _0x44f98c
-    } = await axios.get("https://github.com/Toputech/Topu-ai");
-    let _0x1c73f9 = ("\nтσρυ м∂ α ƒαѕтєѕт ωнαтѕαρρ вσт*" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* Topu-tech\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/Toputech/Topu-ai_\n  *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
+    } = await axios.get("https://github.com/Bot-tezt/Topu-pro");
+    let _0x1c73f9 = ("\n *proTech-m∂ α ƒαѕтєѕт ωнαтѕαρρ вσт*" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* Pro-tech\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/Bot-tezt/Topu-pro_\n  *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
     return await _0x45da98.sendUi(_0x45da98.jid, {
    caption: _0x1c73f9 });
   } catch (_0x5816fe) {
@@ -629,7 +629,7 @@ smd({
   try {
     let _0x32512b = _0x20693a ? _0x20693a : _0x358984.reply_text;
     if (!_0x32512b) {
-      return await _0x358984.send("*provide number with msg to send Anonymously.* \n*Example " + (prefix + _0x12d243) + " 923192173398,your_Message*", {}, "", _0x358984);
+      return await _0x358984.send("*provide number with msg to send Anonymously.* \n*Example " + (prefix + _0x12d243) + " 237673805208,your_Message*", {}, "", _0x358984);
     }
     if (_0x358984.isCreator && _0x32512b === "info") {
       return await _0x358984.reply(isAnnonyMsgAlive == "" ? "*Theres no Anonymous Chat created yet*" : "*Anonymous Chat Recivers*\n_" + isAnnonyMsgAlive + "_");
