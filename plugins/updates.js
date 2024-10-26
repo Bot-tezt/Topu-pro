@@ -265,7 +265,7 @@ let {
    }
  }
  smd({
-   cmdname: "remini",
+   cmdname: "remini","enhance",
    desc: "enhance image quality!",
    type: "updates",
    filename: __filename
