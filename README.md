@@ -7,12 +7,12 @@
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
 
-<a><img src='https://telegra.ph/file/4c2819e618d8946926b82.jpg'/></a>
+<a><img src='https://files.catbox.moe/s7spg1.jpeg'/></a>
  
 <p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/4c2819e618d8946926b82.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/s7spg1.jpeg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -36,7 +36,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Bot-tezt/Topu-pro/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+237673805208">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+## Thankyou for choosing PROTECH MD bot 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -110,7 +110,7 @@ TOPU Md is safe for your WhatsApp and heroku
 ## Reporting a Vulnerability
 
 
-## powered by TOPU MD
+## powered by PROTECH MD
 
 
 ## THANKS TO
