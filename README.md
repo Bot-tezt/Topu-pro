@@ -1,5 +1,5 @@
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
  <h1 align="center"> PROTECH 𝚳𝐃 </h1>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
