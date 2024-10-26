@@ -479,8 +479,8 @@ async function getDateTime() {
   };
 }
 smd({
-  pattern: "repo",
-  alias: ["git", "sc", "script"],
+  pattern: "profile",
+  alias: ["prosc","proscript"],
   desc: "Sends info about repo",
   category: "https://github.com/Bot-tezt/Topu-pro",
   filename: __filename
