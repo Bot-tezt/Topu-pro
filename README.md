@@ -6,11 +6,11 @@
 
 <a><img src='https://files.catbox.moe/s7spg1.jpeg'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing PROTECH Md, A Simple WhatsApp user BOT, Created by PRO-Tech.
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/s7spg1.jpeg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
+
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
