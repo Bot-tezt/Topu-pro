@@ -45,12 +45,12 @@ global.SESSION_ID = "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXR
   ""
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || "., ,!,#,/,@",
+  HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,🎃,✓,!,#,/,@",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.1.2",
   caption: process.env.CAPTION || "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐓𝐞𝐜𝐡 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧",
   author: process.env.PACK_AUTHER || "HALLOWEEN-BUGBOT",
-  packname: process.env.PACK_NAME || "🤝",
+  packname: process.env.PACK_NAME || "🎃",
   botname: process.env.BOT_NAME || "Halloween-Md",
   ownername: process.env.OWNER_NAME || "PROTECH",
   errorChat: process.env.ERROR_CHAT || "",
@@ -61,7 +61,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   antilink_values: process.env.ANTILINK_VALUES || "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
-  aitts_Voice_Id: process.env.AITTS_ID || "38",
+  aitts_Voice_Id: process.env.AITTS_ID || "40",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "0385228b961473710eff4e7daed873e8",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
   LANG: (process.env.THEME || "🎃HALLOWEEN-BUGBOT").toUpperCase(),
