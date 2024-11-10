@@ -866,7 +866,8 @@ const {
    }, "asta");
  });
  smd({
-   pattern: "mute",
+   pattern: "group_close",
+   alias: ["mute"],
    desc: "Provides admin role to replied/quoted user",
    category: "group",
    filename: __filename,
@@ -891,7 +892,8 @@ const {
    }
  });
  smd({
-   pattern: "unmute",
+   pattern: "group_open",
+    alias: ["unmute"],
    desc: "Provides admin role to replied/quoted user",
    category: "group",
    filename: __filename,
@@ -1074,8 +1076,8 @@ const {
    }
  });
  cmd({
-   pattern: "getjids",
-   alias: ["gjid", "gjids", "allgc", "gclist"],
+   pattern: "protechjids",
+   alias: ["gjid", "gjids", "allgc", "gclist", "getjids"],
    desc: "Sends chat id of every groups.",
    category: "group",
    filename: __filename
