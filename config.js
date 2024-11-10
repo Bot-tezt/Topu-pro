@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/s7spg1.jpeg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/q5522l.jpeg";
 global.devs = "237673805208";
 global.sudo = process.env.SUDO || "237673805208";
 global.owner = process.env.OWNER_NUMBER || "237673805208";
@@ -45,13 +45,13 @@ global.SESSION_ID = "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXR
   ""
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,🎃,✓,!,#,/,@",
+  HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,Santa,✓,!,#,/,@",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.1.2",
   caption: process.env.CAPTION || "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐓𝐞𝐜𝐡 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧",
-  author: process.env.PACK_AUTHER || "HALLOWEEN-BUGBOT",
-  packname: process.env.PACK_NAME || "🎃",
-  botname: process.env.BOT_NAME || "Halloween-Md",
+  author: process.env.PACK_AUTHER || "ⓢⓐⓝⓣⓐ ⓒⓡⓐⓢⓗ-ⓑⓞⓣ",
+  packname: process.env.PACK_NAME || "🧑‍🎄",
+  botname: process.env.BOT_NAME || "ⓢⓐⓝⓣⓐ ⓒⓡⓐⓢⓗ-ⓑⓞⓣ",
   ownername: process.env.OWNER_NAME || "PROTECH",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "40",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "0385228b961473710eff4e7daed873e8",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: (process.env.THEME || "🎃HALLOWEEN-BUGBOT").toUpperCase(),
+  LANG: (process.env.THEME || "ⓢⓐⓝⓣⓐ-ⓒⓑⓞⓣ").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
