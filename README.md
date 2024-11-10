@@ -3,12 +3,12 @@
  <h1 align="center"> PROTECH 𝚳𝐃 </h1>
       
 
-<a><img src='https://files.catbox.moe/s7spg1.jpeg'/></a>
+<a><img src='https://files.catbox.moe/zlww15.jpeg'/></a>
  
 <p align="center"> Introducing PROTECH Md, A Simple WhatsApp user BOT, Created by PRO-Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/s7spg1.jpeg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/zlww15.jpeg" alt="01" border="0" /></a>                     
 
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
