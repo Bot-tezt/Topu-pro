@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/q5522l.jpeg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/xk46jg.jpg";
 global.devs = "237673805208";
 global.sudo = process.env.SUDO || "237673805208";
 global.owner = process.env.OWNER_NUMBER || "237673805208";
@@ -32,7 +32,7 @@ global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
-global.read_status = process.env.AUTO_READ_STATUS || "true";
+global.read_status = process.env.AUTO_READ_STATUS || "null";
 global.save_status = process.env.AUTO_SAVE_STATUS || "true";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
@@ -45,13 +45,13 @@ global.SESSION_ID = "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXR
   ""
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,Santa,✓,!,#,/,@",
+  HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,cyber,✓,!,#,/,@",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "3.1.2",
+  VERSION: process.env.VERSION || "3G",
   caption: process.env.CAPTION || "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐓𝐞𝐜𝐡 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧",
-  author: process.env.PACK_AUTHER || "ⓢⓐⓝⓣⓐ ⓒⓡⓐⓢⓗ-ⓑⓞⓣ",
+  author: process.env.PACK_AUTHER || "CYBERDEX",
   packname: process.env.PACK_NAME || "🧑‍🎄",
-  botname: process.env.BOT_NAME || "ⓢⓐⓝⓣⓐ ⓒⓡⓐⓢⓗ-ⓑⓞⓣ",
+  botname: process.env.BOT_NAME || "cyвerdeх",
   ownername: process.env.OWNER_NAME || "PROTECH",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
@@ -61,10 +61,10 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   antilink_values: process.env.ANTILINK_VALUES || "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
-  aitts_Voice_Id: process.env.AITTS_ID || "40",
+  aitts_Voice_Id: process.env.AITTS_ID || "20",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "0385228b961473710eff4e7daed873e8",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: (process.env.THEME || "ⓢⓐⓝⓣⓐ-ⓒⓑⓞⓣ").toUpperCase(),
+  LANG: (process.env.THEME || "cyвerdeх").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
