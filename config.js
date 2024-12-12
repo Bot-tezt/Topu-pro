@@ -47,7 +47,7 @@ module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,cyber,✓,!,#,/,@",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "3G",
+  VERSION: process.env.VERSION || "3.3.4",
   caption: process.env.CAPTION || "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐓𝐞𝐜𝐡 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧",
   author: process.env.PACK_AUTHER || "CYBERDEX",
   packname: process.env.PACK_NAME || "🧑‍🎄",
@@ -63,7 +63,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
   aitts_Voice_Id: process.env.AITTS_ID || "20",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "0385228b961473710eff4e7daed873e8",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
   LANG: (process.env.THEME || "cyвerdeх").toUpperCase(),
 };
 global.rank = "updated";
