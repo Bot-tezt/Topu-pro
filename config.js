@@ -3,7 +3,7 @@ const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
 global.audio = "";
-global.video = "";
+global.video = "https://youtu.be/FryS0wRo2SU?si=ESev1ur6-_Vo3UYM";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "princenjiprospper@gmail.com";
@@ -26,7 +26,7 @@ global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
-global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
+global.MsgsInLog = process.env.MSGS_https://youtu.be/FryS0wRo2SU?si=ESev1ur6-_Vo3UYMIN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "false";
