@@ -8,7 +8,7 @@
 <p align="center"> Introducing PROTECH Md, A Simple WhatsApp user BOT, Created by PRO-Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/xk46jg.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/7wHQXOG.jpeg" alt="01" border="0" /></a>                     
 
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
